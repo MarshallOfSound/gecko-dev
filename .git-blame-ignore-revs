@@ -64,34 +64,34 @@ cb71c644afeee9bdab77f0011bee0b16a4e4b1a6 # cinnabar
 # 7c081650eddf3c9683cc36645e96caae247daf92 - Mark Banner - Bug 1328851 - Enable eslint rule no-undef for storage/. r=mak
 0992c93ab752a0321a9ab4e5ec000d61a27ca4b1 # cinnabar
 80afb72ae63a88118590f183845fc014c39cd391 # gecko-dev
-# 35cb8eb1856d275ca3f2e849974e5b33343ebab2 - Florian Quèze - Bug 1329182 - remove trailing newURI null parameters in XBL bindings, r=jaws.
+# 35cb8eb1856d275ca3f2e849974e5b33343ebab2 - Florian Queze - Bug 1329182 - remove trailing newURI null parameters in XBL bindings, r=jaws.
 24ab7afd0ef8d716b2b1a7a4e09bc73dd5426adc # cinnabar
 e98dedc5c2ad9988b6935bcdad6f77223eb7929d # gecko-dev
-# 3e0d77afb2e04228f6878c228cab954eb793540e - Florian Quèze - Bug 1329182 - remove trailing newURI null parameters in browser/, r=jaws.
+# 3e0d77afb2e04228f6878c228cab954eb793540e - Florian Queze - Bug 1329182 - remove trailing newURI null parameters in browser/, r=jaws.
 a2e29ca1bc4208b98149031de29c59ecc0e14204 # cinnabar
 028a82f682652202c34caaf1c7a61ee27c72bcfb # gecko-dev
-# ae4a26954062015731b0643f4575935581d9e545 - Florian Quèze - Bug 1329182 - remove trailing newURI null parameters in toolkit/, r=jaws.
+# ae4a26954062015731b0643f4575935581d9e545 - Florian Queze - Bug 1329182 - remove trailing newURI null parameters in toolkit/, r=jaws.
 5f229a5115a91f579c8e592123e614d16a3f4183 # cinnabar
 34e970eb9b834b4b430ca71de9ee7f36bdb06cd5 # gecko-dev
-# fca014f3f8aaf1932fa243c0f7f17fe9057f6c12 - Florian Quèze - Bug 1329182 - remove trailing newURI null parameters in devtools/, r=jaws.
+# fca014f3f8aaf1932fa243c0f7f17fe9057f6c12 - Florian Queze - Bug 1329182 - remove trailing newURI null parameters in devtools/, r=jaws.
 654d13f4ac06bad1b6b3fecbef500aa6a1707776 # cinnabar
 55f78ce0fa40f4b62de2ee64fc7f53491ddd52e9 # gecko-dev
-# d816f539d536fcb917e1ce8ba012e7f2873bc3e6 - Florian Quèze - Bug 1329182 - remove trailing newURI null parameters in the rest of the tree, r=jaws.
+# d816f539d536fcb917e1ce8ba012e7f2873bc3e6 - Florian Queze - Bug 1329182 - remove trailing newURI null parameters in the rest of the tree, r=jaws.
 e8de19942c60a65b29b08549c1efa6d527729692 # cinnabar
 fc6379e827eaf396b7a5373c36098818dcb1dafa # gecko-dev
-# 79c7e34346304105ab56ff302a070c4a13329627 - Florian Quèze - Bug 1329182 - remove trailing newURI null parameters in addon-sdk's indexed-db.js, r=jaws.
+# 79c7e34346304105ab56ff302a070c4a13329627 - Florian Queze - Bug 1329182 - remove trailing newURI null parameters in addon-sdk's indexed-db.js, r=jaws.
 e005b414e5463c539b3b27999bf29b413aa5cab5 # cinnabar
 498eeacaaf574462075a9550a550e9bb46f41663 # gecko-dev
 # bd9a337129ad8c50f25a44618e0dd2db9d58c457 - Mark Banner - Bug 1329614 - [eslint] Catch more cases of importing globals from 'var foo = Cu.import('...');'. r=jaws
 aa2896583930021b2a8f90305eb89a30dd633cdb # cinnabar
 582fcb809053585921ec163a4fff977ca622c90d # gecko-dev
-# 8e0b7bc5fd7164d083261a709bdf3dc0266365ca - Florian Quèze - Bug 1330147 - automatic removal of the third boolean parameter in removeObserver calls, r=jaws.
+# 8e0b7bc5fd7164d083261a709bdf3dc0266365ca - Florian Queze - Bug 1330147 - automatic removal of the third boolean parameter in removeObserver calls, r=jaws.
 42c56fe0b7c46a70aa9cee93adae4932bc401218 # cinnabar
 a03918c148d2c6babd3ba992bfd365199a17d6a7 # gecko-dev
-# 9d508a7deecf6b59a7065853838625934a5db051 - Florian Quèze - Bug 1330464 - script-generated removal of additional parameters that don't exist in the interface, r=jaws.
+# 9d508a7deecf6b59a7065853838625934a5db051 - Florian Queze - Bug 1330464 - script-generated removal of additional parameters that don't exist in the interface, r=jaws.
 bf52b3b2ebe392e82c6bcbb2eb8a98566ceae519 # cinnabar
 1e42cad36c4e5fe900321c5909bec9a0347c451a # gecko-dev
-# 7b434711753b98a87603453caaa0945791ffe12b - Florian Quèze - Bug 1331081 - script generated patch to omit addEventListener/removeEventListener's third parameter when it's false, r=jaws.
+# 7b434711753b98a87603453caaa0945791ffe12b - Florian Queze - Bug 1331081 - script generated patch to omit addEventListener/removeEventListener's third parameter when it's false, r=jaws.
 a6f7729a6a2d8feadad98dfbfca0896bb1ed24c8 # cinnabar
 85611a7b6dffaca81fbaf61a0e301f071690bf73 # gecko-dev
 # 8cb53491dd1c78d6a6723b9e92919a304122c3f7 - Jared Wein - Bug 1331661 - Enable the 'quotes' rule for eslint and fix most of the errors with --fix. r=Gijs
@@ -103,22 +103,22 @@ caa2f51ce14dfb8bf029f960eaca19ffdacfb467 # gecko-dev
 # 9c6b98edac72e7cdb53ae100858af4fabcfd14cd - Mark Banner - Bug 1333044 - Enable no-undef eslint rule for services/. r=markh
 d1030e2303e21155af101fa3a2768b43accf2598 # cinnabar
 eb102a103e44ae3960e6a94da7e1f70f1c87e084 # gecko-dev
-# ec0f3678bb31c8e5273d72c27aed48edc899e71c - Florian Quèze - Bug 1331599 - script-generated patch to replace removeEventListener calls with the once option when possible, r=jaws.
+# ec0f3678bb31c8e5273d72c27aed48edc899e71c - Florian Queze - Bug 1331599 - script-generated patch to replace removeEventListener calls with the once option when possible, r=jaws.
 7362b4c72a801c493ecdac0b03f8a437ce1acad6 # cinnabar
 0e0865f4fc6ba6b205488f1125a7b881a503d32e # gecko-dev
 # d1f3d30546a1f0fec3f583dea660b3f8013f3c6a - Mark Banner - Bug 1333044 - "Enable eslint no-undef for services/" a=tomcat
 4f8b03ad0a2e1b2d01f960dea9cc4cb27741e9a2 # cinnabar
 605ae8736fa09918a4d9c08a0cec14e8e2e2916a # gecko-dev
-# 87fde7e63c1a0a7d808e2f178191f3187057c4e7 - Florian Quèze - Bug 1334250 - script-generated patch to avoid removeEventListener calls when a variable is used for the event name, r=jaws.
+# 87fde7e63c1a0a7d808e2f178191f3187057c4e7 - Florian Queze - Bug 1334250 - script-generated patch to avoid removeEventListener calls when a variable is used for the event name, r=jaws.
 1db01b4927f19d8a6742a461fa2ace86f35fa95c # cinnabar
 f187782ccfcf4550e5e210a6982ac0f4bf8188c6 # gecko-dev
-# d02fd33024b876d9a5c7f4afa9bd103ed9d58e74 - Florian Quèze - Bug 1334199 - script-generated patch to omit getComputedStyle's second argument when it's falsy, r=jaws.
+# d02fd33024b876d9a5c7f4afa9bd103ed9d58e74 - Florian Queze - Bug 1334199 - script-generated patch to omit getComputedStyle's second argument when it's falsy, r=jaws.
 b88dc0cd32c3b09379f053a7054b6e2c662b2f04 # cinnabar
 be4dbae28567529620ceade46fd9d3c6cac5d604 # gecko-dev
-# a58d0d69502bbe43f2d468d08b2adeda458f630f - Florian Quèze - Bug 1334261 - script-generated patch to remove more newURI null parameters, r=jaws.
+# a58d0d69502bbe43f2d468d08b2adeda458f630f - Florian Queze - Bug 1334261 - script-generated patch to remove more newURI null parameters, r=jaws.
 1676c733ba76bef6b4c2894e9e8f59778ba07ed7 # cinnabar
 2cf30507bd9b083684681a2dc8407a1438a85b51 # gecko-dev
-# 25c0a38d2d7ed50ed3c1d419f70c01595c481ae7 - Florian Quèze - Bug 1334156 - script-generated patch to replace .ownerDocument.defaultView with .ownerGlobal, r=jaws.
+# 25c0a38d2d7ed50ed3c1d419f70c01595c481ae7 - Florian Queze - Bug 1334156 - script-generated patch to replace .ownerDocument.defaultView with .ownerGlobal, r=jaws.
 20c28a63efc3c964611d1d3cf682ced8fe30344e # cinnabar
 b11907c7aa09d44b971313c05dc346cb747b6bae # gecko-dev
 # 964e4881f2fe48da51856c73473fd35d239a907b - Mark Banner - Bug 1333044 - Prepare services/ for enabling no-undef eslint rule. r=jaws
@@ -130,7 +130,7 @@ df3fdf012f4151df0ed61c284c0d57284cf972f7 # gecko-dev
 # f3741ccc800b68b2e67c1a0066a4ee05fd1e6cf6 - Mark Banner - Bug 1333044 - Enable no-undef eslint rule for services/. r=markh
 96cba9b54cab225dc6dc263092be314dd937de6c # cinnabar
 8cf0d4744cb936eb45bfe6972e6cf67e45f3d5f2 # gecko-dev
-# a9d172aa441447396884068a7d01561843cdf596 - Florian Quèze - Bug 1334831 - script-generated patch to use .remove() instead of .parentNode.removeChild, r=jaws.
+# a9d172aa441447396884068a7d01561843cdf596 - Florian Queze - Bug 1334831 - script-generated patch to use .remove() instead of .parentNode.removeChild, r=jaws.
 6daa50b0e952a1724309f8d5826f876f8f912e57 # cinnabar
 bdc1ffa6084ee1173d10b2e1ffcc3cdea318f315 # gecko-dev
 # 9ce2d81c539d989ec69239e506db6647a0b1f18e - Mark Banner - Bug 1330545 - [eslint] Handle importScripts in workers for determining global variables. r=mossop
@@ -169,10 +169,10 @@ bb4287f8fbd0a7a3af0ed64b97cd45fade80abdc # gecko-dev
 # 8947d02cec5d0de02f090b70d5352e95c51f1abc - Mark Banner - Bug 1344027 - Fix most of the remaining ESLint no-undef issues in browser/components. r=jaws
 218e82b26154e9834797fa610e438f47a1f999bc # cinnabar
 561b6cfb0c6a91990bc993cfd73db034993ce465 # gecko-dev
-# bff53385b4941566f66332ddb51d339341069f32 - Florian Quèze - Bug 1344711 - script-generated patch to remove try blocks around get*Pref calls, r=jaws.
+# bff53385b4941566f66332ddb51d339341069f32 - Florian Queze - Bug 1344711 - script-generated patch to remove try blocks around get*Pref calls, r=jaws.
 054717afc1c82fcded08f5520d37e735461feeae # cinnabar
 cd762cc83cbb9d77cf839bc05fa9bd66f71db9dd # gecko-dev
-# 1a2b467e5660da4ed8dc7a5ef3077b357aba087f - Florian Quèze - Bug 1345253 - Use element.firstChild.remove() instead of element.removeChild(element.firstChild), r=jaws.
+# 1a2b467e5660da4ed8dc7a5ef3077b357aba087f - Florian Queze - Bug 1345253 - Use element.firstChild.remove() instead of element.removeChild(element.firstChild), r=jaws.
 99ae88ddc534cc04f19b7640711e9a8ab0dba151 # cinnabar
 9d62681259177ff3ef0e14547bb15af8f6f71df5 # gecko-dev
 # 4ceb9062ea8f4113bfd1b3536ace4a840a72faa7 - Mark Banner - Bug 1344017 - Turn on ESLint rule no-undef for browser/components. r=jaws
@@ -187,7 +187,7 @@ a826dacecace346ad5a2847489f7f03d61db9e5f # gecko-dev
 # c0a0ddf7cb98603c3525cb4d1dc96db9fe59ad23 - Mark Banner - Bug 1311347 - Enable eslint of browser/components/sessionstore/. Manual fixes. r=jaws
 8c046b2a41ec1df224760ee4592bef6bbfd7f179 # cinnabar
 c26710ebe4f7b38aae69705d5bde298ed9a7ed45 # gecko-dev
-# 5a8192a650e92565aa2e85721569dad58cc1922c - Florian Quèze - Bug 1345294 - script generated patch (+ some hand cleanup) to replace {get,set}ComplexValue for nsISupportsString by {get,set}StringPref, r=Mossop.
+# 5a8192a650e92565aa2e85721569dad58cc1922c - Florian Queze - Bug 1345294 - script generated patch (+ some hand cleanup) to replace {get,set}ComplexValue for nsISupportsString by {get,set}StringPref, r=Mossop.
 44ef31522dda1d6b4bb92ed6058894228203f4ad # cinnabar
 9c4d40bb5486ae7dd876d249f69e30436dee6bfa # gecko-dev
 # 13e3f762e6820d3981ddb1c68ba53cc9b3a06b6e - Mark Banner - Bug 1350298 - Fix most of the ESLint issues in nsContextMenu.js. r=jaws
@@ -244,16 +244,16 @@ f8dca8e969bc3a198d7c2fcbacfe33a5da610b88 # cinnabar
 # 0f97f76c0b34673f2bf31c96eb1285416836f565 - Florian Queze - Bug 1355056 - replace (function(args) { /* do stuff using this */ }).bind(this) with arrow functions, r=jaws.
 178997dbd6038a0aba0863a2e3fdb36e1d552188 # cinnabar
 4b1556a5f261f740adcaaa6664168a15ebfd5de4 # gecko-dev
-# 7970ea0858614c4de33e32fb59738ddc9c3efc23 - Florian Quèze - Bug 1353542 - massive script-generated patch converting Task.async and Task.spawn calls, and generators clearly identifiable as tasks, rs=Mossop.
+# 7970ea0858614c4de33e32fb59738ddc9c3efc23 - Florian Queze - Bug 1353542 - massive script-generated patch converting Task.async and Task.spawn calls, and generators clearly identifiable as tasks, rs=Mossop.
 90ec3e4cd01bce984921ae8dc44cd88b3be4e731 # cinnabar
 5e3539e5045968affaf23261e481d6e5e565d2cf # gecko-dev
-# b31650bb06c14be3c39b953e71560357ec1c569e - Florian Quèze - Bug 1353542 - smaller script-generated patch converting remaining generators that are likely tasks (actual generators were identified by hand and whitelisted), r=Mossop.
+# b31650bb06c14be3c39b953e71560357ec1c569e - Florian Queze - Bug 1353542 - smaller script-generated patch converting remaining generators that are likely tasks (actual generators were identified by hand and whitelisted), r=Mossop.
 fa02bf918d0847ea13a76fec91e6355270cfb1da # cinnabar
 16530fa1e3b18b88302cea1fe5a91baf0154d3c3 # gecko-dev
-# 586c752c204ac58c3155ef438edf559cc3e648c9 - Florian Quèze - Bug 1353542 - script-generated patch to remove .bind(this) calls we no longer need now that generator functions have been replaced with async functions, r=Mossop.
+# 586c752c204ac58c3155ef438edf559cc3e648c9 - Florian Queze - Bug 1353542 - script-generated patch to remove .bind(this) calls we no longer need now that generator functions have been replaced with async functions, r=Mossop.
 eddc0f842ddd1cd4d967bd07ac1c53549da29816 # cinnabar
 1d0e28a7916384398e3be841c939bc734d3a6751 # gecko-dev
-# c143205c3f2025e131b8dd4efa64d53fd7e5ac0b - Florian Quèze - Bug 1362882 - script-generated patch to switch from Promise.defer() to new Promise() where it's straightforward, rs=Mossop.
+# c143205c3f2025e131b8dd4efa64d53fd7e5ac0b - Florian Queze - Bug 1362882 - script-generated patch to switch from Promise.defer() to new Promise() where it's straightforward, rs=Mossop.
 1ef0c9878fc24a6ce954ab329abaed60b6778465 # cinnabar
 97f401c6442b9a93f923960b19ab7b2fa94879b0 # gecko-dev
 # 261943b7c3644155ac69ed3333d14917e5e037d3 - Mark Banner - Bug 1361760 - Enable some Mozilla ESLint recommended rules for dom/indexedDB/test/unit. r=bevis
@@ -286,7 +286,7 @@ cafeb512f1165316556e7efbcb4c8f1cd4bb763e # gecko-dev
 # f9eddc0d3345f353f4155521ae1234b2df6aa6e8 - Mark Banner - Bug 1370240 - Enable the ESLint no-control-regex rule across mozilla-central. r=mossop
 e45a46f4e490c30e3e990b4bbc05be93c1ceab65 # cinnabar
 c93c2a1504308980f62c02f73483fbabd638bb56 # gecko-dev
-# fd9e6e55b4f488889e836b60b3fa64368edec657 - Emilio Cobos Álvarez - Bug 1370802: Cleanup style and indentation in GenericSpecifiedValues.h and related files. r=heycam
+# fd9e6e55b4f488889e836b60b3fa64368edec657 - Emilio Cobos Alvarez - Bug 1370802: Cleanup style and indentation in GenericSpecifiedValues.h and related files. r=heycam
 2483abe817f8bb4c9fed79344ba5f339f3547db8 # cinnabar
 1939327306d3e22d92c09270c63f918d8534540b # gecko-dev
 # bfe1b0bc5aedad91d737103317eb4607915ee5a9 - Sylvestre Ledru - Bug 1374720 - Refresh .clang-format-ignore with the recent update of thirdparty libs r=andi
@@ -295,16 +295,16 @@ cefc4c7a286c76d3eccab57c451260031c68dc3b # cinnabar
 # 1e4709afb3717683bf9d890c22218202e68adb99 - Mark Banner - Bug 1374674 - Enable more ESLint rules across the tree to help developers where we're already passing them (no-class-assign, no-const-assign, no-dupe-class-members). r=mossop
 92bba6e2ab1e9aac82b287e8513d434e970ae420 # cinnabar
 70710367aad321293a3f5886e03baf4e96cd6c38 # gecko-dev
-# b0dd91a6a1fd347587ecaef9f81c04de937d7f31 - Florian Quèze - Bug 1374282 - script generated patch to remove Task.jsm calls, r=Mossop.
+# b0dd91a6a1fd347587ecaef9f81c04de937d7f31 - Florian Queze - Bug 1374282 - script generated patch to remove Task.jsm calls, r=Mossop.
 b434098760fe5c1305d31a5be4d02a53ae49235a # cinnabar
 66f6d259bc9ab9416f2de81fbcafe0b76c97bc5c # gecko-dev
-# 52e7befb507aa23f93b9214c65758d6d65401293 - Florian Quèze - Bug 1374282 - script generated patch to remove Promise.defer calls, r=Mossop.
+# 52e7befb507aa23f93b9214c65758d6d65401293 - Florian Queze - Bug 1374282 - script generated patch to remove Promise.defer calls, r=Mossop.
 6f41bc2aa5868d7dc207c34f61a3e3860818f7bd # cinnabar
 5b8f8b884ce1b1e0fcc56cd2163bb86885dd1bab # gecko-dev
-# a65201e69ebf50ed9a38c04118f19c91a0a099d5 - Florian Quèze - Bug 1374282 - script generated patch to remove useless bind calls, r=Mossop.
+# a65201e69ebf50ed9a38c04118f19c91a0a099d5 - Florian Queze - Bug 1374282 - script generated patch to remove useless bind calls, r=Mossop.
 265eb8492e22dbc59d5c881c2df7a2a562fba119 # cinnabar
 1e40201f6d350b633b21981431e31a91fe29ec3c # gecko-dev
-# 05d686d3c53d0ab18cc2911296d380bc20d05300 - Florian Quèze - Bug 1374282 - script generated patch to remove generators from add_task in browser/ and toolkit/, r=Mossop.
+# 05d686d3c53d0ab18cc2911296d380bc20d05300 - Florian Queze - Bug 1374282 - script generated patch to remove generators from add_task in browser/ and toolkit/, r=Mossop.
 aa691b204a726ad900c8a76d97f3a8d429d759f6 # cinnabar
 7375dcec46533c5d358973aad1e31a7782587a8c # gecko-dev
 # 27aa42ed32351009f5c5f7d3dfb5551c6e5bb41e - Mark Banner - Bug 1376357 - Drop use of non-standard catch-if in dom/media/*.js. r=bwc
@@ -526,16 +526,16 @@ f0e0d15ebdb258b5d461069663243a694e32e0a8 # cinnabar
 # dcd1da3793f1315e1c55c1123253992dfd957587 - Eric Rahm - Bug 1424120 - Part 8: clang-format ToInteger. r=njn
 4bbcf03d4a3100594ee623e7160646b4016d92a7 # cinnabar
 79a173e55d5670d6949ad60ce37a202ab41a3a88 # gecko-dev
-# abbde724b07a6c52ce84914858505fc6a9e6c135 - Florian Quèze - Bug 592653 - script-generated patch to replace gPrefService with Services.prefs, r=Standard8.
+# abbde724b07a6c52ce84914858505fc6a9e6c135 - Florian Queze - Bug 592653 - script-generated patch to replace gPrefService with Services.prefs, r=Standard8.
 1e0fadd7236012cb8eacfd75c8a09c3736aa14b7 # cinnabar
 1158645bddf7286e3b00deff143bf9179133acee # gecko-dev
 # 3052b1df15ef7d344107d5cac39c816c5317f331 - Mark Banner - Bug 1369722 - Disable ESLint browser environment for jsm files. r=mossop
 12f6beaccf309edcd6c13e16084f7988bfec3a8d # cinnabar
 30935fa314ff49eda7667d98f338c27571011da8 # gecko-dev
-# eeb99638dc7a5e635aae2c6c83d8b8dd74364b1a - Florian Quèze - Bug 1421992 - script-generated patch to replace do_check_* functions with their Assert.* equivalents, rs=Gijs.
+# eeb99638dc7a5e635aae2c6c83d8b8dd74364b1a - Florian Queze - Bug 1421992 - script-generated patch to replace do_check_* functions with their Assert.* equivalents, rs=Gijs.
 68dde1a452de69109bad8d64381bed06e2e4ebb1 # cinnabar
 032c961e0a24df42cc51dd996e8d01bf751fe0b8 # gecko-dev
-# f418166c70b806963aa3aacdf17bb35b4a5d8d83 - Florian Quèze - Bug 1421992 - script-generated patch to replace do_execute_soon, do_print and do_register_cleanup with executeSoon, info and registerCleanupFunction, rs=Gijs.
+# f418166c70b806963aa3aacdf17bb35b4a5d8d83 - Florian Queze - Bug 1421992 - script-generated patch to replace do_execute_soon, do_print and do_register_cleanup with executeSoon, info and registerCleanupFunction, rs=Gijs.
 54ae29f5e9c65d7300b9b8aa347fe5a5212cfd5d # cinnabar
 0f55cd45be828a58f414ef8357cb7b6a927e09e4 # gecko-dev
 # f73324a4d03387924eccf434e56a8844e361823a - Mark Banner - Bug 1425688 - Enable ESLint rule mozilla/use-services for security/. r=gcp,keeler
@@ -592,7 +592,7 @@ c276bb9375ad7eefea932aa0dd9566bf96e822da # gecko-dev
 # 8552acda5ec771a5c1873ed9222097727ef3cea8 - Mark Banner - Bug 1434449 - Enable no-unused-vars for the global (as well as local) scope on jsm files, whitelist directories still to be fixed. r=florian.
 569abea304a7a405519a39e9376cd1c14be94523 # cinnabar
 9a2172526a3a145b2915f334a4a1385e5e3e34c5 # gecko-dev
-# d5a5ad1dbbf2c53a80386e7397ba6b32153b2b8e - Florian Quèze - Bug 1339461 - script-generated patch to convert foo.indexOf(...) == -1 to foo.includes(), r=Mossop.
+# d5a5ad1dbbf2c53a80386e7397ba6b32153b2b8e - Florian Queze - Bug 1339461 - script-generated patch to convert foo.indexOf(...) == -1 to foo.includes(), r=Mossop.
 c64b4bfb8f12d0c379b9717aa39d9131062aca5c # cinnabar
 2b1c8dccb624d44c8ff51499a9c0e27aef4818bf # gecko-dev
 # 97ac300c64d0a0b2f0fc298c3d670c87a48c15d1 - Mark Banner - Bug 1421379 - Finish enabling ESLint's mozilla/use-services in browser/. r=mossop
@@ -622,7 +622,7 @@ ff6299c6bec898bb68dda00778c1a10e87f839a5 # gecko-dev
 # dc2195c2b23914521c48fa21d40fea1a2db0db54 - Mark Banner - Bug 1440711 - Enable no-unused-vars for global scope on jsm files in accessible/. r=surkov
 91cc5c7d2790b7ab10fea9772b228a8087fff2f9 # cinnabar
 3e6b2c9400ffdaa448bed7de5b18e59dc1234da2 # gecko-dev
-# b599a95ce057712c6b7804f7f108c9c4acff7e6d - Florian Quèze - Bug 1440284 - change this.EXPORTED_SYMBOLS back to var EXPORTED_SYMBOLS in JS modules, r=mccr8.
+# b599a95ce057712c6b7804f7f108c9c4acff7e6d - Florian Queze - Bug 1440284 - change this.EXPORTED_SYMBOLS back to var EXPORTED_SYMBOLS in JS modules, r=mccr8.
 fbf1202312fa83c0fdb24a93f955c159a5c83ea1 # cinnabar
 682b1ec3b2c92831a0ea97754ce4fdd00b9497ae # gecko-dev
 # 39ab872960ff3e6e7eaabb11d3389cf82b037564 - Mark Banner - Bug 1440718 - Enable no-unused-vars for global scope on jsm files in services/sync/. r=kitcambridge
@@ -637,13 +637,13 @@ d977d01b79cbe4316ba4ce9119a6b16bd166a252 # cinnabar
 # d2192f653b256c97b249764632bbe38ed33d97da - Mark Banner - Bug 1440761 - Enable no-unused-vars for global scope on jsm files in toolkit/. r=mossop
 6fed8b37b3e698c6f20d9589063f11e99c097660 # cinnabar
 2e4db142aa822369a97f719e3c0edb21722e3568 # gecko-dev
-# 7bbd1a09eacb8a31f4caef5c1e526d8d32569ae9 - Florian Quèze - Bug 1433175 - scripted patch to replace Components.classes[, Components.interfaces.nsI, Components.utils. and Components.results. with Cc, Ci, Cu and Cr, r=Mossop.
+# 7bbd1a09eacb8a31f4caef5c1e526d8d32569ae9 - Florian Queze - Bug 1433175 - scripted patch to replace Components.classes[, Components.interfaces.nsI, Components.utils. and Components.results. with Cc, Ci, Cu and Cr, r=Mossop.
 9a57cbacf773b8c55c90bf6abefda55a844eb2b9 # cinnabar
 c714053d73ac408ab402bb4d7e906e718f4ecb7e # gecko-dev
-# 3c6de76d185556a74a822e1ee0a59ee4b04e9265 - Florian Quèze - Bug 1433175 - semi-automated indent fix, r=Mossop.
+# 3c6de76d185556a74a822e1ee0a59ee4b04e9265 - Florian Queze - Bug 1433175 - semi-automated indent fix, r=Mossop.
 99f9f4d706df3916dedd707563c7e35d563ed8f1 # cinnabar
 6df7549a3e40fd16fad885cd44d7c40e3533edfa # gecko-dev
-# 3c2b0756aa87aa3a067148609daf834f042b3fd7 - Florian Quèze - Bug 1433175 - more aggressive scripted patch to replace remaining Components.classes, Components.interfaces, Components.utils and Components.results uses with Cc, Ci, Cu and Cr, r=Mossop.
+# 3c2b0756aa87aa3a067148609daf834f042b3fd7 - Florian Queze - Bug 1433175 - more aggressive scripted patch to replace remaining Components.classes, Components.interfaces, Components.utils and Components.results uses with Cc, Ci, Cu and Cr, r=Mossop.
 1006ccf183a434f6064ce1233e4919819b142bf8 # cinnabar
 f3ee8dd20bdb1f5f00268fa020193083cfe4f171 # gecko-dev
 # 0d73894a5fc45ca86b7498a1da0de719516b654e - Mark Banner - Bug 1439831 - Enable ESLint rule mozilla/use-services for mobile/android. r=nechen
@@ -1174,7 +1174,7 @@ fa8083751307e8e5756e4e425b1b63313c6a36f1 # gecko-dev
 # 039a7c0c18fb28371d0ee7b2b673b8dd605f24b7 - Sylvestre Ledru - Bug 1513205 - Ride along, update some code to match the Google coding style r=Ehsan
 1ce955dcb2e09fd9ce19c1ec6c470f75db486bd2 # cinnabar
 7cf43b9bc01d650f87deceb65f336cdac7c0e78f # gecko-dev
-# 1cd2c6c217949d0b1d06f15046eba45ff4517044 - Emilio Cobos Álvarez - Bug 1515707 - Use NS_INTERFACE_MAP_END_INHERITING in some CSSStyleDeclaration implementations. r=Ehsan
+# 1cd2c6c217949d0b1d06f15046eba45ff4517044 - Emilio Cobos Alvarez - Bug 1515707 - Use NS_INTERFACE_MAP_END_INHERITING in some CSSStyleDeclaration implementations. r=Ehsan
 7add48c9c10c5b06d79ef7c2a9ef51f5a5a42f04 # cinnabar
 0447125d681783c9aa6b3c737d62e619897e52f2 # gecko-dev
 # a535962417c0d37bd82387093238f6457109e279 - Mark Banner - Bug 1515605 - Enable ESLint for dom/localstorage (automatic changes). r=janv
